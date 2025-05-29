@@ -10,4 +10,4 @@ the simulations were used to track changes in dynamics (length, width and depth)
 I created the job submission script Chromo_hpc_script.sh to run the simulation in a HPC cluster environment for multiple parallel replicates in the directory.
 Ensure a Linux/WSL environment and run the simulations using ./chromo or ./Chromo_hpc_script.sh in the HPC. 
 
-The work and repository of Dr Tereza Clarence that this built upon can be found be found here: https://github.com/FrancisCrickInstitute/Chromosome-Condensation
+The original work and repository that this built upon can be found be found here: https://github.com/FrancisCrickInstitute/Chromosome-Condensation
